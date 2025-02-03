@@ -38,12 +38,12 @@ const About = () => {
             transition={{ duration: 0.5, delay: 0.4 }}
           >
             <p className="text-lg mb-6">
-              I'm a passionate web developer and Ai & Ml Engineer with a keen eye for design and a love for creating seamless user
+              I&#39;m a passionate web developer and Ai & Ml Engineer with a keen eye for design and a love for creating seamless user
               experiences. With expertise in modern web technologies, I strive to build innovative and efficient
               solutions that make a difference.
             </p>
             <p className="text-lg mb-6">
-              When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or
+              When I&#39;m not coding, you can find me exploring new technologies, contributing to open-source projects, or
               enjoying a good cup of coffee while brainstorming my next big idea.
             </p>
             <div className="mt-8">
