@@ -24,12 +24,12 @@ const projects = [
     category: "AI/ML Projects",
   },
   {
-    title: "Project 3",
-    description: "Coming Soon....",
+    title: "Nova AI",
+    description: "Nova AI is an intelligent AI chatbot designed for knowledge assistance, and personalized conversations. It leverages Google Gemini API to generate smart responses, supports voice input, text-to-speech, PDF processing, and real-time weather updates.<br/>This multi-functional AI assistant comes with custom AI personas (Teacher, Friend, Expert, etc.), smart reply suggestions, and speech synthesis for an enhanced user experience.",
     image: "/project3.jpg",
-    github: "https://github.com/yourusername/project3",
-    live: "https://project3.com",
-    category: "*",
+    github: "https://github.com/VARIKUNTLASAIMANOJ/Nova-AI",
+    live: "https://nova-ai-6tbg.onrender.com",
+    category: "AI/ML Projects",
   },
   {
     title: "Project 4",
@@ -37,7 +37,15 @@ const projects = [
     image: "/project4.jpg",
     github: "https://github.com/yourusername/project4",
     live: "https://project4.com",
-    category: "*",
+    category: "AI/ML Projects",
+  },
+  {
+    title: "Project 5",
+    description: "Coming Soon....",
+    image: "/project5.jpg",
+    github: "https://github.com/yourusername/project4",
+    live: "https://project4.com",
+    category: "Web App",
   },
 ]
 
